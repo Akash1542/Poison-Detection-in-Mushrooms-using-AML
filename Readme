@@ -1,0 +1,33 @@
+Project Title: Poison Detection in Mushrooms Using Applied Machine Learning
+Course Number: IST 707
+Course Title: Applied Machine Learning
+
+Description:
+This project aims to classify mushrooms as edible or poisonous using machine learning techniques. Leveraging the UCI Mushroom dataset, the project involves data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation. The goal is to develop an accurate predictive model to assist in identifying poisonous mushrooms based on their physical characteristics.
+
+Contents:
+- finalAML.ipynb: Jupyter Notebook containing the complete workflow, including data preprocessing, EDA, model training, and evaluation.
+- report.md: Markdown file summarizing the project's objectives, methodology, results, and conclusions.
+
+Software Requirements:
+- Python 3.8 or higher
+- Jupyter Notebook
+- Required Python libraries:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+
+How to Open/Review:
+1. Ensure Python and Jupyter Notebook are installed on your system.
+2. Install the required libraries using pip:
+3. Open `finalAML.ipynb` in Jupyter Notebook to explore the project's code and results.
+4. Open `report.md` using any markdown viewer or text editor to read the project summary.
+
+Notes:
+- The dataset used is the UCI Mushroom dataset, which includes 8,124 instances of mushrooms with 22 categorical features.
+- The project focuses on binary classification to predict whether a mushroom is edible or poisonous based on its features.
+
+Author:
+Sai Akash Addala
